@@ -1,0 +1,23 @@
+{
+  "name": "deneme-proje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmreWorkintech/deneme-proje.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmreWorkintech/deneme-proje/issues"
+  },
+  "homepage": "https://github.com/EmreWorkintech/deneme-proje#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
